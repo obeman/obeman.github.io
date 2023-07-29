@@ -6,9 +6,9 @@ Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game meng
 
 ***
 # Table of Contents
-* [Projekku](/perjalananku)
-    * [Lorem Ipsum](/perjalananku)
-* [Lorem Ipsum](/perjalananku)
+* [Projekku](#perjalananku)
+    * [Lorem Ipsum](#perjalananku)
+* [Lorem Ipsum](#perjalananku)
 
 
 ***

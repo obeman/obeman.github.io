@@ -6,13 +6,10 @@ Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game meng
 
 ***
 # Table of Contents
-* [Perjalananku Menjadi Game Programmer](#perjalananku-menjadi-game-programmer)
-    * [Pintu Awal Menjadi Game Programmer](#pintu-awal-menjadi-game-programmer)
-    * [Pengalaman Pertama](#pengalaman-pertama)
-    * [Kontribusi Pertama](#kontribusi-pertama)
-* [Pengalaman Game Jam](#pengalaman-game-jam)
-* [Projek Game](#projek-game)
-* [Projek Plugin](#projek-plugin)
+* [Projekku](#projek)
+    * [Lorem Ipsum](#projek)
+* [Lorem Ipsum](#projek)
+
 
 ***
 

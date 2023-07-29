@@ -6,16 +6,16 @@ Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game meng
 
 ***
 # Table of Contents
-* [Projekku](#projek)
-    * [Lorem Ipsum](#projek)
-* [Lorem Ipsum](#projek)
+* [Projekku](/perjalananku)
+    * [Lorem Ipsum](/perjalananku)
+* [Lorem Ipsum](/perjalananku)
 
 
 ***
 
-## Perjalananku Menjadi Game Programmer
+## Perjalananku
 #### Pintu Awal Menjadi Game Programmer
-Saya memulai perjalananku menjadi Game Programmer dimulai pada akhir tahun 2017 dengan mengambil kursus game yang diadakan oleh Raion Community salah satu Lembaga Semi Otonom yang berada pada Fakultas Ilmu Komputer, Universitas Brawijaya. Dari kursus yang diadakan oleh Raion saya telah mempelajari bagaimana melakukan koding UI didalam Game dan membuat mekanik sederhana untuk mendapatkan posisi acak dalam waktu tertentu.
+Lorem Ipsum [Open Projek](/projek)
 
 #### Pengalaman Pertama
 Saya memiliki rasa optimis tinggi terhadap apa yang telah saya kuasai dalam programming dalam game, pada awal tahun 2018 tepat sebulan setelah kursus yang saya ikuti dari Raion, saya memberanikan diri untuk mengikuti event Gamejam pertama saya pada acara Global Game Jam 2018 yang diadakan pada kota Surabaya berlokasi pada salah satu gedung Politeknik Elektronika Negri Surabaya. Saya percaya bahwa keberanian untuk tetap melangkah maju akan membentuk jati diri yang lebih baik. 

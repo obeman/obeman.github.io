@@ -2,7 +2,7 @@
 
 ![Update Date](https://img.shields.io/badge/-Updated%20on%20Juli%2019%2C%202022-brightgreen) <br>
 
-Halo. Saya seorang **Game Programmer** yang berfokus pada pengembangan game menggunakan Unity Engine. Saat ini saya senang dalam mengeksplorasi banyak hal mengenai optimasi didalam game maupun game engine. Saya memiliki mimpi untuk dapat membuat game engine sendiri maupun dalam tim, oleh karena itu saya membuat beberapa plugin reusable yang dapat saya gunakan kembali dalam projek game selanjutnya ataupun dibagikan kepada orang yang membutuhkan plugin tersebut. Ini adalah portofolio singkat saya sebagai seorang **Game Programmer**.
+Halo. Saya seorang **Lorem Ipsum**.
 
 ***
 # Table of Contents
